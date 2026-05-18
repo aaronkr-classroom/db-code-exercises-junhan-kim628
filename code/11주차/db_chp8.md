@@ -51,30 +51,20 @@
 4. 308쪽에 있는 ER 다이어그램은 지역별로 회원이 어떤 카페에 가입했는지를 표현한 것이다 ER 다이어그램을 릴레이션 스키마로 변환하시오.
 <img width="1105" height="217" alt="image" src="https://github.com/user-attachments/assets/849ecba5-f71b-4fd2-bedd-116a3dc8d131" />
 
-
 5. 309쪽에 있는 ER 다이어그램은 학생이 어떤 외부 활동에 참여했는지를 표현한 것이다. ER 다이어그램을 릴레이션 스키마로 변환하시오.
-<img width="815" height="235" alt="image" src="https://github.com/user-attachments/assets/7f936f7d-1a43-41bc-af6d-2f3e89d200f5" />
-
+<img width="1034" height="245" alt="image" src="https://github.com/user-attachments/assets/717ea7c6-a9e6-4b31-916d-43cedb204e11" />
 
 6. 309쪽에 있는 ER 다이어그램은 모든 학생이 반드시 하나의 방과후 활동에 참가해야 하고， 학생 가운데 1명이 각 방과후 활동의 대표를 맡는다는 사질을 표현한 것이다. ER 다이어그램을 릴레이션 스카마로 변환하시오. 단， 관계를 가장 효율적인 방법으로 단순화해서 표현하시오.
-<img width="843" height="250" alt="image" src="https://github.com/user-attachments/assets/61af99ff-332e-4af7-bf18-1b091f3eb399" />
-
+<img width="815" height="235" alt="image" src="https://github.com/user-attachments/assets/7f936f7d-1a43-41bc-af6d-2f3e89d200f5" />
 
 7. 309쪽에 있는 다이어그램은 교수가 어떤 연구회에 가입했는지를 표현한 것이다. ER 다이어그램을 가장 바람직한 형태의 릴레이션 스키마로 변환하시오. 단， 모든 교수가 연구회에 가입하는 것은 아니다.
-
-
+<img width="1084" height="221" alt="image" src="https://github.com/user-attachments/assets/7b54cd64-910f-4095-a61b-a5a646ec8339" />
 
 8. 310쪽에 있는 ER 다이어그램은 1 명의 학생이 최대 5 명의 다른 학생에 대해 멘토링히는 관계를 표현한 것이다. ER 다이어그램을 가장 간단한 형태의 릴레이션 스키마로 변환하시오. 단， 모든 학생은 멘티이지만그가운데 일부학생만벤토 역할을한다.
 <img width="419" height="260" alt="image" src="https://github.com/user-attachments/assets/1cad9eea-6335-48fb-a46e-659c62d67273" />
 
-
 9. 310쪽에 있는 ER 다이어그램은 콘서트를 개최할 때 뮤지션과 기획사， 콘서트홀이 연관되는 관계를 표현한 것이다.ER 다이어그램에서 콘서트개최하다 관계를 릴레이션 스카마로 변환하시오.
-
+<img width="1105" height="401" alt="image" src="https://github.com/user-attachments/assets/53a3b1a1-c8ca-4531-95c6-5c53bef738a3" />
 
 10. 310쪽에 있는 ER 다이어그램은 하나 이상의 자격증을 소지한응시자 개체를 표현한 것이다. ER 다이어그램을 릴레이션 스키마로 변환하시오.
-
-
-
-
-
-
+<img width="784" height="291" alt="image" src="https://github.com/user-attachments/assets/e62687ce-300e-4aae-8946-c42807e96417" />
