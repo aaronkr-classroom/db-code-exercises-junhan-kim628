@@ -46,21 +46,30 @@
 릴레이션 스키마는 관계 데이터 모델의 기본이 되는 릴레이션을 구성하는 속성들의 집합으로, 릴레이션 이름과 속성 이름들로 표현된다.
 
 3. 308쪽에 있는 ER 다이어그램은 회원이 어떤 고등학교를 졸업했는지를 표현한 것이다. ER 다이어그램을 릴레이션 스키마로 변환한 디음， 관계 릴레이션을 단순화하여 표현하시오.
-<img width="1397" height="282" alt="image" src="https://github.com/user-attachments/assets/1c8d9383-ec84-4142-9ae7-7c6155af61a5" />
-
+<img width="762" height="234" alt="image" src="https://github.com/user-attachments/assets/bbe73d7a-f6ba-44a8-be43-53051b29e9d2" />
 
 4. 308쪽에 있는 ER 다이어그램은 지역별로 회원이 어떤 카페에 가입했는지를 표현한 것이다 ER 다이어그램을 릴레이션 스키마로 변환하시오.
+<img width="1105" height="217" alt="image" src="https://github.com/user-attachments/assets/849ecba5-f71b-4fd2-bedd-116a3dc8d131" />
 
 
 5. 309쪽에 있는 ER 다이어그램은 학생이 어떤 외부 활동에 참여했는지를 표현한 것이다. ER 다이어그램을 릴레이션 스키마로 변환하시오.
+<img width="815" height="235" alt="image" src="https://github.com/user-attachments/assets/7f936f7d-1a43-41bc-af6d-2f3e89d200f5" />
+
 
 6. 309쪽에 있는 ER 다이어그램은 모든 학생이 반드시 하나의 방과후 활동에 참가해야 하고， 학생 가운데 1명이 각 방과후 활동의 대표를 맡는다는 사질을 표현한 것이다. ER 다이어그램을 릴레이션 스카마로 변환하시오. 단， 관계를 가장 효율적인 방법으로 단순화해서 표현하시오.
+<img width="843" height="250" alt="image" src="https://github.com/user-attachments/assets/61af99ff-332e-4af7-bf18-1b091f3eb399" />
+
 
 7. 309쪽에 있는 다이어그램은 교수가 어떤 연구회에 가입했는지를 표현한 것이다. ER 다이어그램을 가장 바람직한 형태의 릴레이션 스키마로 변환하시오. 단， 모든 교수가 연구회에 가입하는 것은 아니다.
 
+
+
 8. 310쪽에 있는 ER 다이어그램은 1 명의 학생이 최대 5 명의 다른 학생에 대해 멘토링히는 관계를 표현한 것이다. ER 다이어그램을 가장 간단한 형태의 릴레이션 스키마로 변환하시오. 단， 모든 학생은 멘티이지만그가운데 일부학생만벤토 역할을한다.
+<img width="419" height="260" alt="image" src="https://github.com/user-attachments/assets/1cad9eea-6335-48fb-a46e-659c62d67273" />
+
 
 9. 310쪽에 있는 ER 다이어그램은 콘서트를 개최할 때 뮤지션과 기획사， 콘서트홀이 연관되는 관계를 표현한 것이다.ER 다이어그램에서 콘서트개최하다 관계를 릴레이션 스카마로 변환하시오.
+
 
 10. 310쪽에 있는 ER 다이어그램은 하나 이상의 자격증을 소지한응시자 개체를 표현한 것이다. ER 다이어그램을 릴레이션 스키마로 변환하시오.
 
